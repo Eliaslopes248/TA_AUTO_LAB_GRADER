@@ -1,0 +1,1 @@
+python3 attendence_checker.py
